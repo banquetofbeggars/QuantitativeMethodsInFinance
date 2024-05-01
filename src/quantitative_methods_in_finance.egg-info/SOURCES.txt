@@ -1,8 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-src/quantitative_methods_in_finance.egg-info/PKG-INFO
-src/quantitative_methods_in_finance.egg-info/SOURCES.txt
-src/quantitative_methods_in_finance.egg-info/dependency_links.txt
-src/quantitative_methods_in_finance.egg-info/requires.txt
-src/quantitative_methods_in_finance.egg-info/top_level.txt

@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: quantitative-methods-in-finance
-Version: 0.0.1
-Summary: A workbook of the book 'Quantitative Methods in Finance' by Carol Alexander
-Author-email: Matthew Markham <notme@example.com>
-Requires-Python: >=3.11
-License-File: LICENSE
-Requires-Dist: pandas
